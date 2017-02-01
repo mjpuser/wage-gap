@@ -1,0 +1,4 @@
+data/raw
+data/agg-census-data.csv
+db/census.db
+extension-functions.so
